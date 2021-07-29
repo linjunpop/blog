@@ -25,7 +25,7 @@ The first step is to create a new directory `.devcontainer` in your project's ro
 
 Now let's add the definition file `.devcontainer/devcontainer.json` for this project:
 
-```json
+```
 {
   "image": "hexpm/elixir:1.12.2-erlang-24.0.4-ubuntu-focal-20210325",
   "name": "transhook-devcontainer",
@@ -42,7 +42,7 @@ The VSCode window will restart and connect to the container. After the container
 
 ![The result of onCreateCommand](/assets/images/dev-container-2.png)
 
-```bash
+```
 root@aa36190d0d2f:/workspaces/transhook# elixir --version
 Erlang/OTP 24 [erts-12.0.3] [source] [64-bit] [smp:4:4] [ds:4:4:10] [async-threads:1]
 
@@ -59,7 +59,7 @@ As you can see, there are no syntax highlights for the Elixir files. Let move to
 
 Dev Container also can bundle the VSCode extensions for the project. Let's go ahead and add the `extensions` section to the `.devcontainer/devcontainer.json` file:
 
-```json
+```
 {
   "image": "hexpm/elixir:1.12.2-erlang-24.0.4-ubuntu-focal-20210325",
   "name": "transhook-devcontainer",
@@ -91,7 +91,7 @@ What we need to do is to modify the `.devcontainer/devcontainer.json` file, and 
 
 In the `Dockerfile`, we installed [asdf](https://asdf-vm.com), and Elixir, Erlang, Nodejs based on the versions defined in the project's `.tool-versions` file:
 
-```dockerfile
+```
 FROM ubuntu as dev
 
 RUN apt-get update -qq && \
@@ -138,7 +138,7 @@ WORKDIR /workspace
 
 In the `docker-compose.yml` file, the service `app_dev` will be defined to build the image and mount the project into the container's `/workspace/transhook` directory:
 
-```yaml
+```
 version: "3.6"
 
 services:
@@ -158,7 +158,7 @@ services:
 
 Then we will modify the `devcontainer.json` to tell VSCode we need to build the Dev Container from a Docker Compose file:
 
-```json
+```
 {
   "dockerComposeFile": ["docker-compose.yml"],
   "workspaceFolder": "/workspace/transhook",
@@ -174,7 +174,7 @@ Then we will modify the `devcontainer.json` to tell VSCode we need to build the 
 
 After a rebuild, everything should up and running:
 
-```bash
+```
 asdf@bcdc19f598ee:/workspace/transhook$ cat .tool-versions
 erlang 24.0.2
 elixir 1.12.1-otp-24
