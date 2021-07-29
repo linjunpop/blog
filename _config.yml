@@ -25,7 +25,8 @@ twitter_username: linjunpop
 github_username:  linjunpop
 
 # Build settings
-theme: no-style-please
+# theme: no-style-please
+remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
 
