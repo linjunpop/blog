@@ -144,7 +144,7 @@ version: "3.6"
 services:
   app_dev:
     build:
-		  # Set the context to the parent directory, so we can add `.tool-versions` to the container
+      # Set the context to the parent directory, so we can add `.tool-versions` to the container
       context: ../
       dockerfile: .devcontainer/Dockerfile
     environment:
@@ -251,7 +251,7 @@ volumes:
 
 Now change the database hostname to `db` in `config/dev.exs`:
 
-```
+```elixir
 # Configure your database
 config :transhook, Transhook.Repo,
   username: "postgres",
@@ -283,7 +283,7 @@ The database for Transhook.Repo has been created
 
 And the web server can be successfully started now:
 
-```
+```bash
 asdf@61d774e9052e:/workspace/transhook$ iex -S mix phx.server
 Erlang/OTP 24 [erts-12.0.2] [source] [64-bit] [smp:4:4] [ds:4:4:10] [async-threads:1]
 
