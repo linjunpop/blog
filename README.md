@@ -1,4 +1,4 @@
-# blog
+# Jun's Blog
 
 The source code of my blog.
 
