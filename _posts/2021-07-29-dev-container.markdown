@@ -309,11 +309,11 @@ If you read through the above content, you might be wondering why would we spend
 
 ### Pros
 
-- The Dev Container can provide a clean dev environment, which can keep the same language & tools as production runtime environment
+- The Dev Container can provide a clean dev environment, which can keep consistant with the production runtime environment.
 - New contributors can easily set up the dev environment, especially when the project is complex and relying on many 3rd party tools/services.
-- The VSCode extensions can be also included in the Dev Container definition, so every contributor of the project can enjoy the same editing 环境. Also, new useful plugins can quickly sync to developers.
-- As [GitHub Codespaces](https://github.com/features/codespaces) support Dev Container too, so a project hosted on GitHub might provide a cloud editing environment, which could allow you to edit and ship projects on an iPad. (I will try this later for the Transhook project)
+- VSCode extensions can be also included in the Dev Container definition, so developers can enjoy the same editing environment. Also, with a `$ git pull`, new extensions can be pull and installed automatically.
+- As [GitHub Codespaces](https://github.com/features/codespaces) support Dev Container too, so a project hosted on GitHub might provide a cloud editing environment, which could allow you to edit and ship projects on an iPad. (I had try this for the Transhook project, and it works very well if the network is stable.)
 
 ### Cons
 
-- As the Dev Container relies on Docker, it might consume more resources than a well-setup local dev environment. It's a trade-off, on my MacBook Air with 8G memory, sometimes I'll receive memory out warnings, and it seems the virtual machine uses around 5G of my memory)
+- As the Dev Container relies on Docker, it might consume more resources than a well-setup local dev environment, It's a trade-off. On my MacBook Air with 8G memory, sometimes I'll receive memory out warnings, the virtual machine uses around 5G)
