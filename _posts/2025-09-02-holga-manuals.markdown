@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Announcing Holga Manuals"
-date: 2025-09-02 18:00:00 +0800
+date: 2025-09-02 17:00:00 +0800
 ---
 
 I built a small website to collect Holga camera manuals in one place:
