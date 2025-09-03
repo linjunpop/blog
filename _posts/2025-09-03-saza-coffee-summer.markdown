@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Saza Coffee 夏季限定"
+date: 2025-09-03 13:00:00 +0800
+---
+
+![summer](/assets/images/saza-coffee/summer.jpeg)
+
+我觉得好喝的方式：
+
+1. 15 克粉，85 摄氏度的水
+2. 杯子里预先装满冰块
+3. 50 克的水，35 秒焖蒸
+4. 再注水 200 克，一分钟
+5. 总时间大概在 1 分 35 秒结束
