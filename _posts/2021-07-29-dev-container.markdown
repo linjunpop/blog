@@ -36,11 +36,11 @@ Now let's add the definition file `.devcontainer/devcontainer.json` for this pro
 
 Then try "Open Folder in Container..."
 
-![Open folder in container menu](/assets/images/dev-container-1.png)
+![Open folder in container menu](/assets/images/2021/07/29/dev-container-1.png)
 
 The VSCode window will restart and connect to the container. After the container successfully running, you can see the result of `onCreateCommand` which show the elixir version here:
 
-![The result of onCreateCommand](/assets/images/dev-container-2.png)
+![The result of onCreateCommand](/assets/images/2021/07/29/dev-container-2.png)
 
 ```bash
 root@aa36190d0d2f:/workspaces/transhook# elixir --version
@@ -51,7 +51,7 @@ Elixir 1.12.2 (compiled with Erlang/OTP 24)
 
 Then let's open the `mix.exs` file:
 
-![Elixir file without syntax highlights](/assets/images/dev-container-3.png)
+![Elixir file without syntax highlights](/assets/images/2021/07/29/dev-container-3.png)
 
 As you can see, there are no syntax highlights for the Elixir files. Let move to the next step to make the syntax highlighting work.
 
@@ -71,11 +71,11 @@ Dev Container also can bundle the VSCode extensions for the project. Let's go ah
 
 When you reopen the project in Container, VSCode will detect there's a change, then ask you to rebuild the container.
 
-![VSCode detect changes and ask for a rebuild](/assets/images/dev-container-4.png)
+![VSCode detect changes and ask for a rebuild](/assets/images/2021/07/29/dev-container-4.png)
 
 After the rebuild is finished, VSCode will get the ElixirLS and GitLens extension installed. Now the Elixir files got syntax highlighting:
 
-![Elixir file with syntax highlights](/assets/images/dev-container-5.png)
+![Elixir file with syntax highlights](/assets/images/2021/07/29/dev-container-5.png)
 
 But as you can see, VSCode complains that the Git is missing, that's because there's the only Elixir installed in the image: `hexpm/elixir:1.12.2-erlang-24.0.4-ubuntu-focal-20210325`. But Git is required for our development, can we find a way to add it to the Dev Container? Let's move on.
 
@@ -190,7 +190,7 @@ v16.5.0
 
 Till now, we've set up a Dev Container with a fully functional Elixir development environment, we can start coding.
 
-![Successfully setup the Elixir environment](/assets/images/dev-container-6.png)
+![Successfully setup the Elixir environment](/assets/images/2021/07/29/dev-container-6.png)
 
 Can we?
 
@@ -295,7 +295,7 @@ iex(1)>
 
 You can visit the server from the host machine, on the forwarded port `4000`:
 
-![The index page for the Transhook app](/assets/images/dev-container-7.png)
+![The index page for the Transhook app](/assets/images/2021/07/29/dev-container-7.png)
 
 ### We did it!
 

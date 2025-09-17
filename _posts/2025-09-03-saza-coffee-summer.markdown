@@ -4,7 +4,7 @@ title: "Saza Coffee 夏季限定"
 date: 2025-09-03 13:00:00 +0800
 ---
 
-![summer](/assets/images/saza-coffee/summer.jpeg)
+![summer](/assets/images/2025/09/03/summer.jpeg)
 
 我觉得好喝的方式：
 

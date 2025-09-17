@@ -4,7 +4,7 @@ title: "Shadow"
 date: 2025-04-16 20:00:00 +0800
 ---
 
-![shadow](/assets/images/shadow/shadow.jpeg)
+![shadow](/assets/images/2025/04/16/shadow.jpeg)
 
 台灯在桌面留下灯泡的影子
 
