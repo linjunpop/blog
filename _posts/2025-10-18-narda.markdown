@@ -1,0 +1,13 @@
+---
+layout: post
+title: "New App: Narda"
+date: 2025-10-18 07:26:00 +0800
+---
+
+I just built another app called Narda. It's an app which brings the half-frame camera experience (especially Holga 135 TIM) to your iPhone.
+
+Two snaps, one story.
+
+Join the Beta Testing: [https://omit.pro/apps/narda](https://omit.pro/apps/narda)
+
+![Narda Intro](/assets/images/2025/10/18/narda-intro.avif)
