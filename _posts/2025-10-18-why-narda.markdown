@@ -4,9 +4,9 @@ title: "Why Narda"
 date: 2025-10-18 15:26:00 +0800
 ---
 
-Narda 是另一个相机 App，如果想要试试它：[New App: Narda](narda.html)
+Narda 是另一个相机 App，如果想要试试它：[New App: Narda]({% post_url 2025-10-18-narda %})
 
-它和  [Horika](https://omit.pro/apps/horika/) 有何区别呢？
+它和 [Horika](https://omit.pro/apps/horika/) 有何区别呢？
 
 起因是 Holga 的一款相机，在收集 Holga 产品的过程中，我最喜欢用的有两款。第一款毋庸置疑就是 Holga 120 GCFN，它是 Horika 得以诞生的一个因素。我爱用的另一款就是 Holga 135TIM，他有一个很奇怪的外观，正面是一个笑脸，甚至细看之后有点恐怖感。
 
@@ -34,7 +34,7 @@ Narda 是另一个相机 App，如果想要试试它：[New App: Narda](narda.ht
 
 你可以用眉毛单独控制左右画面是否曝光，也是通过一个模拟的过片扳手来保存最终的照片，快门按钮形状模范了 Holga 135TIM 的形状（椭圆形的外框，甚至有点像 Ricoh GR 的快门按钮），也模仿了笑脸的部分，因为手机无需手动去控制光圈，所以换成了控制闪光灯，之后也会加入多色的模式，模拟闪光灯的滤色片。
 
-以上，就是 Narda 的起源，喜欢你能喜欢它，也能体验到它的有趣。目前在等待备案，如果想要试试它，可以通过 TestFlight 加入测试：[New App: Narda](narda.html)
+以上，就是 Narda 的起源，喜欢你能喜欢它，也能体验到它的有趣。目前在等待备案，如果想要试试它，可以通过 TestFlight 加入测试：[New App: Narda]({% post_url 2025-10-18-narda %})
 
 关于 Narda 这个名字，本来是想拿来做一款模拟徒步体验的游戏，但是 ChatGPT 告诉我：
 
