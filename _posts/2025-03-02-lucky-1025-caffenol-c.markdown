@@ -24,5 +24,7 @@ Developed for 14 minutes at 20°C.
 Digital Scanning with Lumix S5M2 High Resolution Mode.
 
 ![P1135884](/assets/images/2025/03/02/P1135884.jpeg)
+
 ![P1135887](/assets/images/2025/03/02/P1135887.jpeg)
+
 ![P1135893](/assets/images/2025/03/02/P1135893.jpeg)
