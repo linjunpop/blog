@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Shit"
+date: 2025-11-29 22:15:00 +0800
+---
+
+I'm shit.
