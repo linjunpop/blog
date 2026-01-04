@@ -1,0 +1,11 @@
+---
+layout: post
+title: "窗景"
+date: 2026-01-04 07:26:00 +0800
+---
+
+TestFlight Beta: [https://testflight.apple.com/join/hKnb2q4B](https://testflight.apple.com/join/hKnb2q4B)
+
+![outside-room](/assets/images/2026/01/04/outside-room.avif)
+
+![outside-ins](/assets/images/2026/01/04/outside-ins.avif)
