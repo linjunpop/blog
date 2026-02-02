@@ -6,6 +6,6 @@ date: 2026-02-02 07:26:00 +0800
 
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/%E7%A9%BA%E5%B8%86%E8%88%B9/1438421718?i=1438421727"></iframe>
 
--- 朴树《空帆船》
+-- [朴树《空帆船》](https://music.apple.com/cn/album/%E7%A9%BA%E5%B8%86%E8%88%B9/1438421718?i=1438421727)
 
 ![IMG_0399](/assets/images/2026/02/02/IMG_0399.avif)
