@@ -1,0 +1,27 @@
+---
+layout: post
+title: "一些照片"
+date: 2026-04-06 07:26:00 +0800
+---
+
+![IMG_1483](/assets/images/2026/04/06/IMG_1483.avif)
+
+![IMG_1488](/assets/images/2026/04/06/IMG_1488.avif)
+
+![IMG_1501](/assets/images/2026/04/06/IMG_1501.avif)
+
+![IMG_1553](/assets/images/2026/04/06/IMG_1553.avif)
+
+![IMG_1554](/assets/images/2026/04/06/IMG_1554.avif)
+
+![SDIM2774](/assets/images/2026/04/06/SDIM2774.avif)
+
+![SDIM2816](/assets/images/2026/04/06/SDIM2816.avif)
+
+![SDIM2843](/assets/images/2026/04/06/SDIM2843.avif)
+
+![SDIM2861](/assets/images/2026/04/06/SDIM2861.avif)
+
+![SDIM2865](/assets/images/2026/04/06/SDIM2865.avif)
+
+![SDIM2866](/assets/images/2026/04/06/SDIM2866.avif)
