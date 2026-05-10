@@ -4,6 +4,6 @@ title: "The Tree"
 date: 2026-05-11 07:26:00 +0800
 ---
 
-![The Tree](/assets/images/2026/05/11/0651.avif)
+![The Tree](/assets/images/2026/05/11/tree.avif)
 
 Pinehole day submission: https://pinholeday.org/gallery/2026/index.php?id=651
